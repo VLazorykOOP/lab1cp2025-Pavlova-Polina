@@ -1,0 +1,7 @@
+﻿  Lab1_Exceptions.cpp
+C:\Users\soft4\source\repos\Lab1_Exceptions\Lab1_Exceptions.cpp(129,28): warning C4101: 'e': unreferenced local variable
+C:\Users\soft4\source\repos\Lab1_Exceptions\Lab1_Exceptions.cpp(157,28): warning C4101: 'e': unreferenced local variable
+C:\Users\soft4\source\repos\Lab1_Exceptions\Lab1_Exceptions.cpp(177,28): warning C4101: 'e': unreferenced local variable
+C:\Users\soft4\source\repos\Lab1_Exceptions\Lab1_Exceptions.cpp(181,29): warning C4101: 'e': unreferenced local variable
+C:\Users\soft4\source\repos\Lab1_Exceptions\Lab1_Exceptions.cpp(253,28): warning C4101: 'e': unreferenced local variable
+  Lab1_Exceptions.vcxproj -> C:\Users\soft4\source\repos\Lab1_Exceptions\x64\Debug\Lab1_Exceptions.exe
